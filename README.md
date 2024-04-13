@@ -1,6 +1,6 @@
-# Advent of code Typescript Starter
+# Advent of code Typescript
 
-A simple [Advent of code](https://adventofcode.com/) starter project with Typescript and jest for testing.
+My solutions for [Advent of code](https://adventofcode.com/) `23 in Typescript.
 
 ## How to use
 
